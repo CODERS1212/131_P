@@ -1,0 +1,23 @@
+.heading
+{
+    font-size: 23;
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;  
+    background-image: linear-gradient(to top right, yellow,purple,blue);
+}
+body
+{
+    background-size: cover;
+}
+
+#hi
+{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+    background-image: linear-gradient(to top right, yellow,purple,blue);
+    color: white;
+    border-radius: 15px;  
+}
+
